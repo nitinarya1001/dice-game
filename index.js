@@ -16,5 +16,5 @@ else {
     document.querySelector("h1").textContent = "Draw!";
 }
 
-document.getElementsByTagName("img")[0].setAttribute("src", "./Images/dice" + random0 + ".png");
-document.getElementsByTagName("img")[1].setAttribute("src", "./Images/dice" + random1 + ".png");
+document.getElementsByTagName("img")[0].setAttribute("src", "./images/dice" + random0 + ".png");
+document.getElementsByTagName("img")[1].setAttribute("src", "./images/dice" + random1 + ".png");
